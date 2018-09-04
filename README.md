@@ -5,6 +5,8 @@ This repository contains implementations of various deep reinforcement learning 
 
 *Disclaimer: The code contained in this repository are my own implementations. I would only post my solutions 5 days after a certain assignment ddl (we have 5 late days). I would love to discuss after I post. *
 
+Also, the [original course git repo](https://github.com/Russzheng/CS294_Deep_Reinforcement_Learning.git). 
+
 ## Dependencies
 * Python **3.5**
 * Numpy version **1.14.5**

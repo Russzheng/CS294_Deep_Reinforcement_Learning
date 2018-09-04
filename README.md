@@ -1,6 +1,6 @@
 # CS294_Deep_Reinforcement_Learning
 
-# CS294 Deep Reinforcement Learning @ University of California, Berkeley
+## CS294 Deep Reinforcement Learning @ University of California, Berkeley
 This repository contains implementations of various deep reinforcement learning algorithms for Mujoco environments, initially my assignments for this course, [UC Berkeley's CS294 Deep Reinforcement Learning](http://rail.eecs.berkeley.edu/deeprlcourse/).
 
 *Disclaimer: The code contained in this repository are my own implementations. I would only post my solutions 5 days after a certain assignment ddl (we have 5 late days). I would love to discuss after I post. *

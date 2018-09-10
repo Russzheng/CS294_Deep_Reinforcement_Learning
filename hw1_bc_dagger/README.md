@@ -30,8 +30,8 @@ Note:
  coordinates of joints, so extract local information would make sense (for instance, extract information for knee movement, ankle movement separately)
  * I did not fine tune all the parameters.
  * Humanoid-v2 is the hardest model to train according to our TA.
-[Result of CNN for Humanoid-v2]: https://github.com/Russzheng/CS294_Deep_Reinforcement_Learning/upload/master/hw1_bc_dagger/dagger.png "Logo Title Text 2"
 
+![Result for Humanoid-v2](https://github.com/Russzheng/CS294_Deep_Reinforcement_Learning/blob/master/hw1_bc_dagger/dagger.png "Logo Title Text 1")
 
 ### Example usage:
 ```shell

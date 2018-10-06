@@ -1,4 +1,11 @@
-## Explanations, answers of the questions are in writeup.md ##
+## Install box2d ##
+```shell
+pip install box2d box2d-kengz
+```
+
+```python
+# Replace the lunar_lander.py. Replace int64 with int32
+```
 
 ### Usage: ###
 
@@ -23,7 +30,7 @@ I have different commands in this shell file, one to test batch size 1000 with d
 ./problem7.sh
 ```
 
-###	Problem 8: I used the provided command###
+###	Problem 8: I used the provided command ###
 ```shell
 ./problem8_1.sh
 ./problem8_2.sh
